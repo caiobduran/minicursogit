@@ -3,4 +3,5 @@
 import sys
 
 message = sys.argv[1]
-print(message)
+times = int(sys.argv[2])
+print(message*times)
