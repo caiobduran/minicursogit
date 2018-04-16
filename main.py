@@ -1,1 +1,2 @@
-print('try me out')
+message = 'try me out'
+print(message)
